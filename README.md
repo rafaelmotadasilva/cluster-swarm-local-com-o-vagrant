@@ -41,6 +41,12 @@ Vagrant.configure("2") do |config|
     end
   end
 ```
+## Executando o script
+
+### Execute a partir de um terminal
+
+A maneira mais simples de usar o script acima é copiar e colar o conteúdo em um arquivo chamado `Vagrantfile`.
+
 Em seguida, em um terminal, execute o seguinte comando:
 
 ```
